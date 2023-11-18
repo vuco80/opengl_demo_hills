@@ -1,5 +1,6 @@
 # opengl_demo_hills
 A simple c++/opengl program in which you can WASD your way through a hills heightmap.
+Inspirational and/or *educational* purpose only.
 
 DEPENDENCIES:
 ----------------------------------------------
